@@ -11,7 +11,7 @@ Links to my different Github Accounts!
 <a href=https://www.linkedin.com/in/aarondelaney99/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
 
 ## My Portfolio
-Visit my professional account for more info
+Visit my <a href=https://github.com/Sadge-Student>professional account</a> for more info
 
 
 ## Skills & Stats
