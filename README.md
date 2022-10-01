@@ -1,6 +1,7 @@
 # Hi, I'm Aaron Delaney! <img src="https://cdn.frankerfacez.com/emoticon/567712/4"  width="64px" height="64px" align="center" alt="OkaygeBusiness" />
 
-Links to my different Github Accounts!
+<div align = center>
+  <h3> Links to my different Github Accounts! </h3>
 
 <b>Professional Account</b>&nbsp;&nbsp;|&nbsp;&nbsp;<b>This Account</b>&nbsp;&nbsp;|&nbsp;&nbsp;Personal Account
 
@@ -8,11 +9,13 @@ Links to my different Github Accounts!
 &nbsp;&nbsp;<a href=https://github.com/Sadge-Student> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> </a>&nbsp;&nbsp;
 &nbsp;&nbsp;<a href=https://github.com/Priimalhunter> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> </a>
 
+</div>
+  
 ## Socials
-Visit my <a href=https://github.com/Sadge-Student>professional account</a> for more info
+Visit my <a href=https://github.com/AaronDelaney99>professional account</a> for more info
 
 ## My Portfolio
-Visit my <a href=https://github.com/Sadge-Student>professional account</a> for more info
+Visit my <a href=https://github.com/AaronDelaney99>professional account</a> for more info
 
 
 ## Skills & Stats
