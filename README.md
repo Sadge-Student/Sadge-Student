@@ -8,7 +8,8 @@ Links to my different Github Accounts!
 &nbsp;&nbsp;<a href=https://github.com/Sadge-Student> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> </a>&nbsp;&nbsp;
 &nbsp;&nbsp;<a href=https://github.com/Priimalhunter> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> </a>
 
-<a href=https://www.linkedin.com/in/aarondelaney99/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
+## Socials
+Visit my <a href=https://github.com/Sadge-Student>professional account</a> for more info
 
 ## My Portfolio
 Visit my <a href=https://github.com/Sadge-Student>professional account</a> for more info
