@@ -19,8 +19,8 @@ Visit my <a href=https://github.com/AaronDelaney99>professional account</a> for 
 
 
 ## Skills & Stats
-<img src="https://github-readme-stats.vercel.app/api?username=sadge-student&theme=dracula&show_icons=true&count_private=true">&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadge-student&theme=dracula&layout=&langs_count=5">
+<img src="https://github-readme-stats.vercel.app/api?username=Sadge-Student&theme=dracula&show_icons=true&count_private=true">&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadge-Student&theme=dracula&layout=&langs_count=5">
 
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
